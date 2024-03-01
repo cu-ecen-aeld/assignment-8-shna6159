@@ -1,1 +1,2 @@
-# assignment-8-shna6159
+# yocto-assignments-base
+Base repository for AESD Yocto assignments
